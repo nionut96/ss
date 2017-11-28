@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-D:/School/SS/ProiectServer/main.c
+D:/School/SS/ss/ProiectServer/main.c
 stdio.h
 -
 winsock2.h
