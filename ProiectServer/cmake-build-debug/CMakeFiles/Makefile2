@@ -53,10 +53,10 @@ RM = C:\Users\Afterwind\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\172.3544
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\School\SS\ProiectServer
+CMAKE_SOURCE_DIR = D:\School\SS\ss\ProiectServer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\School\SS\ProiectServer\cmake-build-debug
+CMAKE_BINARY_DIR = D:\School\SS\ss\ProiectServer\cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/ProiectServer.dir
@@ -65,7 +65,7 @@ CMAKE_BINARY_DIR = D:\School\SS\ProiectServer\cmake-build-debug
 CMakeFiles/ProiectServer.dir/all:
 	$(MAKE) -f CMakeFiles\ProiectServer.dir\build.make CMakeFiles/ProiectServer.dir/depend
 	$(MAKE) -f CMakeFiles\ProiectServer.dir\build.make CMakeFiles/ProiectServer.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\School\SS\ProiectServer\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target ProiectServer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\School\SS\ss\ProiectServer\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target ProiectServer"
 .PHONY : CMakeFiles/ProiectServer.dir/all
 
 # Include target in all.
@@ -75,9 +75,9 @@ all: CMakeFiles/ProiectServer.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ProiectServer.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\School\SS\ProiectServer\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\School\SS\ss\ProiectServer\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/ProiectServer.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\School\SS\ProiectServer\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\School\SS\ss\ProiectServer\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/ProiectServer.dir/rule
 
 # Convenience name for target.
