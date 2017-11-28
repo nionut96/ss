@@ -1,0 +1,3 @@
+D:/School/SS/ProiectClient/cmake-build-debug/CMakeFiles/ProiectClient.dir
+D:/School/SS/ProiectClient/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/School/SS/ProiectClient/cmake-build-debug/CMakeFiles/rebuild_cache.dir

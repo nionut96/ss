@@ -1,0 +1,3 @@
+D:/School/SS/ProiectServer/cmake-build-debug/CMakeFiles/ProiectServer.dir
+D:/School/SS/ProiectServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/School/SS/ProiectServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
